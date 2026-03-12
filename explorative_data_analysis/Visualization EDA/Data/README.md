@@ -1,1 +1,1 @@
-
+### This data is a processed data after visualization, determining preliminary insight about how each important variable would affect the success rate and feature engeniting woth one hot encoder to prepare data for feature modeling
